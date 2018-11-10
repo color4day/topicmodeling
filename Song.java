@@ -54,6 +54,9 @@ public class Song {
                     output.println();
                     System.out.println(line);
                     line=br.readLine();
+
+		    System.out.println("hahaha");
+
                 }
             }
             else
